@@ -1,2 +1,6 @@
 
 .vs/
+/Generated/
+/Public/
+/Mods/Gustav*
+/Mods/Shared*
